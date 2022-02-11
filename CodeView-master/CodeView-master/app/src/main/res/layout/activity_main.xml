@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.amrdeveloper.codeview.CodeView
+        android:id="@+id/codeView"
+        android:dropDownWidth="@dimen/dimen150dp"
+        android:dropDownHorizontalOffset="0dp"
+        android:dropDownSelector="@color/darkGrey"
+        android:gravity="top|start"
+        android:background="@color/darkGrey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604105965507",
+    "firebase_url": "https://fir-mlkit-9c3c7.firebaseio.com",
+    "project_id": "fir-mlkit-9c3c7",
+    "storage_bucket": "fir-mlkit-9c3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604105965507:android:4384336f8a5b028ea40776",
+        "android_client_info": {
+          "package_name": "com.ajeetkumar.textdetectionusingmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604105965507-q7ird1qlmbc8fficeqn3esj1gh4mspps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpwmNhFMhdtnyiuazJY7qqcwXb2zoXQt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604105965507-q7ird1qlmbc8fficeqn3esj1gh4mspps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/txtText"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="text"/>
+
+
+        <Button
+            android:id="@+id/btn_speak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Speak Out"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_tone_up"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="목소리 톤 UP"/>
+
+        <Button
+            android:id="@+id/btn_tone_down"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="목소리 톤 DOWN"/>
+
+        <Button
+            android:id="@+id/btn_speed_up"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="속도 UP"/>
+
+        <Button
+            android:id="@+id/btn_speed_down"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="속도 DOWN"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
