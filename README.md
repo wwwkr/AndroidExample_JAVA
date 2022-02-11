@@ -1,5 +1,8 @@
 # Android JAVA Example
+Android 최신 라이브러리 학습 겸 테스트 예제입니다 (https://android-arsenal.com/?sort=created)
 
+
+---------------------------------------------------------------------------------------------------------------------
 
 ### android-fileupload-sample-master
 - intent를 통해 갤러리의 이미지를 가지고 온 후 멀티파트를 통해 이미지 업로드를 하는 예제
