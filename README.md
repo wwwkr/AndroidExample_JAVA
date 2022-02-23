@@ -21,7 +21,9 @@ Android 최신 라이브러리 학습 겸 테스트 예제입니다 (https://and
 
 ### CropImage
 - Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE); 사진 찍기
+- 
   Intent intent = new Intent(Intent.ACTION_PICK); 앨범에서 사진 선택
+  
   Intent intent = new Intent("com.android.camera.action.CROP"); 앨범에 있는 사진 크롭 
 
 ### excelPanel-master
