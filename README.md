@@ -90,7 +90,7 @@ Android 최신 라이브러리 학습 겸 테스트 예제입니다 (https://and
 - timelineview 라이브러리를 통한 상단 고정 달력 예제
 
 ### VmAndroid
-- MVVM패턴의 ViewModel과 jetpack의 lifedata로 구현한 숫자 카운터 앱
+- MVVM패턴의 ViewModel과 jetpack의 livedata로 구현한 숫자 카운터 앱
 
 ### WebView 
 - webview 구현 후 TouchListener로 터치 값 확인하는 예제
